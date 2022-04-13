@@ -971,6 +971,7 @@ img {
     flex-direction: row;
     column-gap: 2rem;
   }*/
+  
   .footer__socials{
     justify-self: flex-end;
   }
