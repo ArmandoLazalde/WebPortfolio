@@ -362,8 +362,12 @@ img {
   background-color: var(--first-color);
   color: #FFF;
   padding: 0.7rem;
-  border-radius: .5rem;
+  border-radius: .5rem;  
+  font-family: 'Poppins', sans-serif;
   font-weight: var(--font-medium);
+  font-size: 0.95rem;
+  border: none;
+  
 }
  
 .button:hover{
@@ -376,10 +380,12 @@ img {
   transition: .3s;
 }
 
+
 .button--flex{
   display: inline-flex;
   align-items: center;
 }
+
 
 /*==================== ABOUT ====================*/
 .about__img{
