@@ -604,13 +604,13 @@ img {
 }
 
 .work__card{
+  /*background-color: var(--input-color);*/
   background-color: var(--first-color);
   padding: 1.25rem;
   border-radius: .5rem;
   /*color: var(--container-color);
   opacity: .8;*/
 }
-
 
 .portfolio__item-details{
   display: none;
