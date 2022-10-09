@@ -9,6 +9,7 @@ However, improvements to the site are needed and I already have some in mind. In
 Changelog:
 -- Added Courses section in my academic trajectory
 -- Added a technology filter to the projects section
+-- Update web responsive design
 
 
 Web Porftolio v2.0
@@ -20,5 +21,6 @@ Me parecio bastante divertido y no descarto la posibilidad de explorar en un fut
 Sin embargo, hacen falta mejoras al sitio y ya tengo algunas en mente. En un futuro no muy lejano planeo lanzar la versión 3.0
 
 Cambios:
--- Se agrego la sección de Cursos en mi trayectoria académica
--- Se agrego un filtro de tecnologías a la sección de proyectos
+-Se agrego la sección de Cursos en mi trayectoria académica
+-Se agrego un filtro de tecnologías a la sección de proyectos
+-Se actualizo el diseño web responsivo
