@@ -12,6 +12,12 @@ Changelog:
 - Added a technology filter to the projects section
 - Update web responsive design
 
+-> Version 2.2
+- Added link to my medium blog
+- Published the first PowerBI & Excel projects categorized in a Viz filter (Visualizations)
+- A single contact email is determined
+- Updated in the description of some projects
+
 
 Web Porftolio
 
