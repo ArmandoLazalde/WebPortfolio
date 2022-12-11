@@ -16,7 +16,7 @@ Changelog:
 - Added link to my medium blog
 - Published the first PowerBI & Excel projects categorized in a Viz filter (Visualizations)
 - A single contact email is determined
-- Updated in the description of some projects
+- Updated the description of some projects
 
 
 Web Porftolio
