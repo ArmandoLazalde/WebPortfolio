@@ -14,7 +14,7 @@ Changelog:
 
 -> Version 2.2
 - Added link to my medium blog
-- Published the first PowerBI & Excel projects categorized in a Viz filter (Visualizations)
+- Published the first PowerBI & Excel projects
 - A single contact email is determined
 - Updated the description of some projects
 
@@ -35,6 +35,6 @@ Cambios:
 
 -> Version 2.2 
 - Se agrego el enlace a mi blog de Medium
-- Se publicaron los primeros proyectos de PowerBI & Excel categorizados en un filtro de Viz(Visualizaciones)
+- Se publicaron los primeros proyectos de PowerBI & Excel
 - Se determino un solo correo de contacto
 - Se actualizaron la descripción de algunos proyectos
